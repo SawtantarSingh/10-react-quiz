@@ -2,8 +2,9 @@
 //Done: Allowing the user to select the difficulty
 //Done: going back and forth
 //Working: Upload The highscore to fake api
+// working
 
-import { useEffect, useReducer } from "react";
+import { useEffect, useReducer } from "react":
 import Header from "./Header";
 import Main from "./Main";
 import Loader from "./Loader";
